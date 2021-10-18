@@ -1,0 +1,76 @@
+.navbar-brand{
+    color: rgb(128, 122, 122);
+}
+
+/*Seksyen 1 */
+
+.seksyen1{
+    background-color: rgb(11, 87, 131);
+    padding: 7% 15% 7%;
+}
+
+.banner{
+    text-align: center;
+}
+
+.heading-sewa{
+    color: rgb(245, 51, 245);
+}
+
+.tulisanPutih{
+    color: white;
+}
+
+.container{
+    background-color: #e2c543;
+    padding: 2% 3% 2%;
+}
+
+/*seksyen 2 */
+
+.seksyen2{
+    background-color: #e9ecef;
+    padding: 5% 15% 5%;
+    text-align: center;
+}
+
+
+.icon{
+    color: #ff1bec;
+    margin-bottom: 1rem;
+}
+.feature-box{
+    padding: 3%
+}
+
+.seksyen3{
+    text-align: center;
+    padding: 5%;
+    background-color: #1a8ce4;
+}
+
+.seksyen4{
+    background-color: #e9ecef;
+    padding: 5%;
+    text-align: center;
+}
+
+
+.seksyen5{
+     background-color: #64196b;
+     padding: 5% 20% 5%;
+     text-align: :left;
+     color: white;
+              
+}
+
+
+.footer{
+    background-color: #000;
+    padding: 2%;
+    text-align: left;
+}
+
+.media{
+    color: black;
+}
